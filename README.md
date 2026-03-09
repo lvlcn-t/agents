@@ -4,6 +4,14 @@ Personal configuration for [opencode](https://opencode.ai) — an AI coding
 assistant. This repo wires up MCP servers, custom AI agents, and a slash
 command used daily for code review.
 
+## Install
+
+Clone directly into the opencode config directory:
+
+```bash
+git clone git@github.com:lvlcn-t/agents.git ~/.config/opencode
+```
+
 ## What's here
 
 ```text
