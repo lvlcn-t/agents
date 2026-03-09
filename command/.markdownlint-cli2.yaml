@@ -1,0 +1,4 @@
+# Command files intentionally start with YAML front matter,
+# not a top-level heading. Disable MD041 for this directory only.
+config:
+  MD041: false
